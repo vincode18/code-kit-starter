@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///D:/Antigravity%20IDE/Masterclass/vin-kit-starter/app/%28public%29/page.tsx"],"sourcesContent":["// this page should be used only as a splash page to decide where a user should be navigated to\n// when logged in --> to /heists\n// when not logged in --> to /login\n\nimport { Clock8 } from \"lucide-react\"\n\nexport default function Home() {\n  return (\n    <div className=\"center-content\">\n      <div className=\"page-content\">\n        <h1>\n          P<Clock8 className=\"logo\" strokeWidth={2.75} />cket Heist\n        </h1>\n        <div>Tiny missions. Big office mischief.</div>\n      </div>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA,+FAA+F;AAC/F,gCAAgC;AAChC,mCAAmC;AAEnC;;;AAEe,SAAS;IACtB,qBACE,uQAAC;QAAI,WAAU;kBACb,cAAA,uQAAC;YAAI,WAAU;;8BACb,uQAAC;;wBAAG;sCACD,uQAAC,6OAAM;4BAAC,WAAU;4BAAO,aAAa;;;;;;wBAAQ;;;;;;;8BAEjD,uQAAC;8BAAI;;;;;;;;;;;;;;;;;AAIb"}}]
+}
