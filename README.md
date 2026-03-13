@@ -1,6 +1,6 @@
 # Viandra Kit
 
-Starter project for Viandra.
+Starter Code AI project for Viandra.
 
 ## Getting Started
 
